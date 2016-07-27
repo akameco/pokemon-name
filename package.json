@@ -1,0 +1,29 @@
+{
+  "name": "pokemon-name",
+  "version": "0.0.0",
+  "description": "get jp pokemon names",
+  "license": "MIT",
+  "repository": "akameco/pokemon-names",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "pokemon"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "xo": "^0.16.0"
+  }
+}
