@@ -1,5 +1,7 @@
 # pokemon-name [![Build Status](https://travis-ci.org/akameco/pokemon-name.svg?branch=master)](https://travis-ci.org/akameco/pokemon-name)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/pokemon-name.svg)](https://greenkeeper.io/)
+
 > Get jp pokemon name
 
 
